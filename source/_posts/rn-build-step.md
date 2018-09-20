@@ -1,6 +1,6 @@
 ---
-title: rn打包介绍
-date: 2018-09-20 09:32:15
+title: rn打包配置
+date: 2018-09-20 00:16:13
 tags: ['react-native']
 ---
 
