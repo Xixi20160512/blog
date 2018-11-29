@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 聚光科技-前端blog
+title: 不会飞的猪
 subtitle:
 description:
-author: fpi-front
+author: ruan_xh
 language: zh
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://fe.fpi-inc.site/blog
-root: /blog/
+url: http://blog.xixi2016.cc
+root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
@@ -72,7 +72,13 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: aath
+theme: next
+
+archive_generator:
+    per_page: 0
+    yearly: false
+    monthly: false
+    daily: false
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
